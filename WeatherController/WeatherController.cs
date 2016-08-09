@@ -15,7 +15,7 @@ namespace WeatherController
             get { return "Weather Controller"; }
         }
 
-        public override string Authour
+        public override string Author
         {
             get { return "Natfoth"; }
         }
